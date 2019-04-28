@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GlassEye</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device does not support Camera2 API.</string>
+    <string name="title_activity_main">GlassEye</string>
+    <string name="hint">Tap on mic to start</string>
+    <string name="logo_desc">Logo</string>
+</resources>
