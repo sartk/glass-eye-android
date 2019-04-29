@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.lite.examples.detection;
+package tech.sarthakkamat.glasseye;
 
 import android.Manifest;
 import android.app.Fragment;
