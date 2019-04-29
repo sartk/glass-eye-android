@@ -1,4 +1,4 @@
-package org.tensorflow.lite.examples.detection;
+package tech.sarthakkamat.glasseye;
 
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
