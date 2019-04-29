@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tensorflow.lite.examples.detection;
+package tech.sarthakkamat.glasseye;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
