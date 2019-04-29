@@ -1,4 +1,4 @@
-package org.tensorflow.lite.examples.detection;
+package tech.sarthakkamat.glasseye;
 
 /*
  * Copyright 2019 The TensorFlow Authors. All Rights Reserved.
